@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, DEPORTES ALVAROTV
+#EXTINF:-1, DEPORTES PREMIUM
 http://newultra.xyz:8080/get.php?username=jesus82399&password=GBbdheUdfZ&type=m3u
 #EXTINF:-1,WIN SPORT PLUS HD EXCLUSIVO
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37930 
@@ -52,8 +52,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37217
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37220 
 #EXTINF:-1,Argentina  Fox Sports HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37221 
-#EXTINF:-1,Argentina  Fox Sports Premium HQ 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37222 
 #EXTINF:-1,Argentina  Fox Sports Premium FHD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37223 
 #EXTINF:-1,Argentina  TNT Sports FHD
