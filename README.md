@@ -31,7 +31,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37943 
 #EXTINF:-1,WinSports Plus HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37944
-
 #EXTINF:-1,CL ESPN 4 HD 
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/85399 
 #EXTINF:-1,LALIGA FOX SPORT 1 CL
