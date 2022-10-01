@@ -1,9 +1,6 @@
-#EXTM3U
-
-#EXTINF:-1,WIN SPORT PLUS HD EXCLUSIVO
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215 
+#EXTM3U 
 #EXTINF:-1,Win Sports plus HD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215 
 #EXTINF:-1,Win Sports plus SD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37933 
 #EXTINF:-1,Win Sports FHD excl
@@ -164,11 +161,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37917
 #EXTINF:-1,TyC Sports HD ARG 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37918 
 #EXTINF:-1,TyC Sports HQ ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37919 
-#EXTINF:-1,Uruguay  VTV FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37925 
-#EXTINF:-1,Uruguay VTV HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37926 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37919   
 #EXTINF:-1,Uruguay VTV SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37927 
 #EXTINF:-1,Uruguay VTVplusHD 
@@ -221,60 +214,28 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40662
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40828 
 #EXTINF:-1,DAZN F1 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69765
-#EXTINF:-1,DAZN F1 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69766
-#EXTINF:-1,DAZN F1 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69767
 #EXTINF:-1,DAZN 1 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69769
 #EXTINF:-1,DAZN 1 HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69770
-#EXTINF:-1,DAZN 1 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69771
-#EXTINF:-1,DAZN 1 FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69772
 #EXTINF:-1,DAZN 2 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69773
 #EXTINF:-1,DAZN 2 HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69774
-#EXTINF:-1,DAZN 2 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69775
-#EXTINF:-1,DAZN Bar 1 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69786
 #EXTINF:-1,DE Dazn 1 Bar HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69787
 #EXTINF:-1,DE Dazn 2 Bar HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69788
-#EXTINF:-1,DAZN  Bar 2 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69789
-#EXTINF:-1,DE  Dazn Sport 1 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69790
-#EXTINF:-1,DE Dazn Sport 2 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69791
-#EXTINF:-1,EVENTOS PREMIUM 1 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69792
-#EXTINF:-1,DIRECTV SPORTS FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78509
-#EXTINF:-1,PL  ESPN 1 FHD Latino
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78510
 #EXTINF:-1,LA LIGA
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78511
 #EXTINF:-1,LALIGA HD EXTRA
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78512
-#EXTINF:-1,LALIGA FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78513
-#EXTINF:-1,LALIGA FHD EXTRA 1
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78514
 #EXTINF:-1, LALIGA FHD EXTRA 2
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78515
-#EXTINF:-1,MOVISTAR LALIGA FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78516
 #EXTINF:-1,ES LA LIGA TV 4K SOLO EVENTOS
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78517
 #EXTINF:-1,ES Bein Sports LaLiga
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78518
-#EXTINF:-1,LALIGA LALIGA BAR SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78519
 #EXTINF:-1,LALIGA  TV BAR EXCLUSIVO
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78520
 #EXTINF:-1,LALIGA TV BAR EXCLUSIVO 2
