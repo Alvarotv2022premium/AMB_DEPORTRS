@@ -1,53 +1,28 @@
 #EXTM3U
-#EXTINF:-1, DEPORTES PREMIUM
-http://newultra.xyz:8080/get.php?username=jesus82399&password=GBbdheUdfZ&type=m3u
 #EXTINF:-1,WIN SPORT PLUS HD EXCLUSIVO
-http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
-#EXTINF:-1,Win Sports plus FHD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37931 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215 
 #EXTINF:-1,Win Sports plus HD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932 
 #EXTINF:-1,Win Sports plus SD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37933 
 #EXTINF:-1,Win Sports FHD excl
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040 
-#EXTINF:-1,WIN SPORTS FHD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37935 
-#EXTINF:-1,Win Sports FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37936 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040    
 #EXTINF:-1,Win Sports HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37937 
-#EXTINF:-1,Win Sports HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938 
-#EXTINF:-1,Win Sports HD 
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37939 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938  
 #EXTINF:-1,Win Sports SD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37940 
 #EXTINF:-1,WIN SPORTS SD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37941 
-#EXTINF:-1,Win Sports SD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37942 
+ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37941  
 #EXTINF:-1,WinSports Plus
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37943 
 #EXTINF:-1,WinSports Plus HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37944
 #EXTINF:-1, STAR PLUS EVENTOS
-http://propdsrv.com:80/853820738/269308479/97099
-#EXTINF:-1,CL ESPN 4 HD 
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/85399 
-#EXTINF:-1,LALIGA FOX SPORT 1 CL
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/85400 
-#EXTINF:-1,LALIGA  FOX SPORT PREMIUM
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/85401 
-#EXTINF:-1,LA sD ESPN 4 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/68499 
-#EXTINF:-1,LA FHD2 ESPN 4 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/68500 
-#EXTINF:-1,Argentina  ESPN 2 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37217 
+http://propdsrv.com:80/853820738/269308479/97099  
 #EXTINF:-1,Argentina  Fox Sports 2 HD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37218 
-#EXTINF:-1,Argentina  Fox Sports 2 HD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37219 
+#EXTINF:-1,Argentina  Fox Sports 2 HD 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37219 
 #EXTINF:-1,Argentina  Fox Sports 3 FHD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37220 
 #EXTINF:-1,Argentina  Fox Sports HD 
@@ -66,31 +41,21 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802 
 #EXTINF:-1,Directv Sports 2 HD excl
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37947 
-#EXTINF:-1,Directv Sports HD Excl http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37948 
-#EXTINF:-1,Directv Sports plusFHD  ARG
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37803 
 #EXTINF:-1,Directv Sports plus HD  ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37804 
-#EXTINF:-1,Directv Sports plus HD  ARG
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37805 
-#EXTINF:-1,Directv Sports plus HD  Cl
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37806 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37804  
 #EXTINF:-1,Directv Sports plus HD  COl
   http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807 
 #EXTINF:-1,Directv Sports plus HD  PE 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37808 
 #EXTINF:-1,Directv Sports plus SD CL  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37809 
 #EXTINF:-1,Directv Sports 2 HD  ARG
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810 
-#EXTINF:-1,Directv Sports 2 HD  ARG http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37811 
+ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810  
 #EXTINF:-1,Directv Sports 2 HD  CL 
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37812 
 #EXTINF:-1,Directv Sports 2 HD  COL
   http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37813 
 #EXTINF:-1,Directv Sports 2 HD  PE
   http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37814 
-#EXTINF:-1,Directv Sports 2 SD  CL
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37815 
 #EXTINF:-1,Directv Sports HD - PE 
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37816 
 #EXTINF:-1,Directv Sports HD  ARG
@@ -100,9 +65,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37808
 #EXTINF:-1,Directv Sports HD COL  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37819 
 #EXTINF:-1,Directv Sports SD ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37820 
-#EXTINF:-1,Directv Sports SD CL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37821 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37820  
 #EXTINF:-1,Directv Sports SD COL 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37822 
 #EXTINF:-1,Ecuador Gol TV Solo Eventos 
@@ -112,55 +75,27 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37824
 #EXTINF:-1,Ecuador  Gol TV HD  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37825 
 #EXTINF:-1,Ecuador  Gol TV SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826 
-#EXTINF:-1,Esp LaLiga TV HD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37834 
-#EXTINF:-1,Esp LaLigaTV Bar FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37835 
-#EXTINF:-1,Esp  M. Laliga 1 HD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37836 
-#EXTINF:-1,Esp M Laliga 2 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37837 
-#EXTINF:-1,Esp  M Laliga 3 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37838 
-#EXTINF:-1,Esp M Laliga FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37839 
-#EXTINF:-1,Espa M Laliga HD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37840 
-#EXTINF:-1,Esp  MLaliga SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37841 
-#EXTINF:-1,Esp M Liga de Campeones FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37842 
-#EXTINF:-1,Esp M Liga de Campeones HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37843 
-#EXTINF:-1,Esp M Liga de Campeones SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37844 
-#EXTINF:-1,DEP ESPN chile FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37845 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826   
 #EXTINF:-1,DEP ESPN chile HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37846 
 #EXTINF:-1,DEP  ESPN 2 chile HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40261 
-#EXTINF:-1,DEP ESPN 2 chile FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40262 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40261  
 #EXTINF:-1,ESPN 2 FHD  MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37848 
-#EXTINF:-1,ESPN 2 FHD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37849 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37848  
 #EXTINF:-1,ESPN 2 HD CL  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37850 
 #EXTINF:-1,ESPN 2 HD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37851 
 #EXTINF:-1,ESPN 2 SD  MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37852 
-#EXTINF:-1,ESPN 2 SD  SUR http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37853 
+#EXTINF:-1,ESPN 2 SD  SUR 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37853 
 #EXTINF:-1,ESPN 3 FHD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37854 
-#EXTINF:-1,ESPN 3 HD CL  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37856 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37854  
 #EXTINF:-1,ESPN 3 HD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37857 
 #EXTINF:-1,ESPN 3 HQ  Col  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37858 
-#EXTINF:-1,ESPN Extra FHD  MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37859 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37858  
 #EXTINF:-1,ESPN Extra HD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37860 
 #EXTINF:-1,ESPN Extra HD SUR 
@@ -168,9 +103,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37861
 #EXTINF:-1,ESPN FHD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37862 
 #EXTINF:-1,ESPN FHD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37863 
-#EXTINF:-1,ESPN HD CL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37864 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37863  
 #EXTINF:-1,ESPN HD  MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37865 
 #EXTINF:-1,ESPN HD SUR 
@@ -253,18 +186,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37928
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37929 
 #EXTINF:-1,Brasil Premiere 1 HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
-#EXTINF:-1,Brasil Premiere 2 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37951 
-#EXTINF:-1,Brasil  Premiere 3 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37952
-#EXTINF:-1,Brasil Premiere 4 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37953
-#EXTINF:-1,Brasil Premiere 5 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37954
-#EXTINF:-1,Brasil Premiere 6 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37955 
-#EXTINF:-1,Brasil Premiere 7 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37956 
 #EXTINF:-1,Brasil Premiere Clubes HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37957 
 #EXTINF:-1,Brasil Premieres Clubes HD 
@@ -313,8 +234,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69765
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69766
 #EXTINF:-1,DAZN F1 HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69767
-#EXTINF:-1,DAZN F1 4K
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69768
 #EXTINF:-1,DAZN 1 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69769
 #EXTINF:-1,DAZN 1 HD
@@ -329,26 +248,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69773
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69774
 #EXTINF:-1,DAZN 2 FHD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69775
-#EXTINF:-1,DAZN 2 FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69776
-#EXTINF:-1,DAZN 3 SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69777
-#EXTINF:-1,DAZN 3 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69778
-#EXTINF:-1,DAZN 3 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69779
-#EXTINF:-1,DAZN 3 FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69780
-#EXTINF:-1,DAZN 4 SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69781
-#EXTINF:-1,DAZN 4 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69782
-#EXTINF:-1,DAZN 4 FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69783
-#EXTINF:-1,DAZN 4 FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69784
-#EXTINF:-1,DE DAZN
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69785
 #EXTINF:-1,DAZN Bar 1 HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69786
 #EXTINF:-1,DE Dazn 1 Bar HD
@@ -401,15 +300,9 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78531
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78532
 #EXTINF:-1,LALIGA  Super Sports Laliga
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78533
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png",CONMEBOL 1
-
+#EXTINF:-1, CONMEBOL 1
 http://a5telecom.distv.net:8080/6235/6235/551
-
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png",CONMEBOL 2
-
+#EXTINF:-1, CONMEBOL 2
 http://a5telecom.distv.net:8080/6235/6235/552
 
 
