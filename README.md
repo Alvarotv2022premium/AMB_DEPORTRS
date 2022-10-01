@@ -404,9 +404,12 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78533
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 1" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png",CONMEBOL 1
 
+http://a5telecom.distv.net:8080/6235/6235/551
 
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL 2" tvg-logo="http://45.170.92.6:8080/icones/conmebol.png",CONMEBOL 2
 
-
+http://a5telecom.distv.net:8080/6235/6235/552
 
 
