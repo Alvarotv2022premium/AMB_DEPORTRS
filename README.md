@@ -10,7 +10,7 @@ http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
 #EXTINF:-1,Win Sports plus SD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37933 
 #EXTINF:-1,Win Sports FHD excl
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37934 
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040 
 #EXTINF:-1,WIN SPORTS FHD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37935 
 #EXTINF:-1,Win Sports FHD 
