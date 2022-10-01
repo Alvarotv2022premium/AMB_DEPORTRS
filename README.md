@@ -19,9 +19,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938
 #EXTINF:-1,WinSports Plus HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37944
 #EXTINF:-1, STAR PLUS EVENTOS
-http://propdsrv.com:80/853820738/269308479/97099  
-#EXTINF:-1,Argentina  Fox Sports 2 HD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37218 
+http://propdsrv.com:80/853820738/269308479/97099   
 #EXTINF:-1,Argentina  Fox Sports 2 HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37219 
 #EXTINF:-1,Argentina  Fox Sports 3 FHD
