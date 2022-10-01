@@ -2,7 +2,7 @@
 #EXTINF:-1, DEPORTES PREMIUM
 http://newultra.xyz:8080/get.php?username=jesus82399&password=GBbdheUdfZ&type=m3u
 #EXTINF:-1,WIN SPORT PLUS HD EXCLUSIVO
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37930 
+http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215
 #EXTINF:-1,Win Sports plus FHD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37931 
 #EXTINF:-1,Win Sports plus HD
