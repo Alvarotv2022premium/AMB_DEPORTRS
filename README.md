@@ -2,7 +2,7 @@
 #EXTINF:-1,Win Sports plus HD
 http://superbits.tv:80/cCqeC084/hJQjh3pJ/72215 
 #EXTINF:-1,Win Sports plus SD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37933 
+http://tele.premiumstore.biz:8080/live/tickplay2020/vweytvfy2u/694.ts 
 #EXTINF:-1,Win Sports FHD excl
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040    
 #EXTINF:-1,Win Sports HD 
