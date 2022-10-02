@@ -99,15 +99,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37866
 #EXTINF:-1,ESPN SD  MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37867 
 #EXTINF:-1,ESPN SD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37868 
-#EXTINF:-1,DEP FOX SPORTS 1 Cl FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40884 
-#EXTINF:-1,DEP FOX SPORTS 1 CHILE HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40885 
-#EXTINF:-1,DEP FOX SPORTS 1 CHILE 2MB 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40886 
-#EXTINF:-1,Fox Sports 1 HD CL  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37869 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37868     
 #EXTINF:-1,Fox Sports 2 FHD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37870 
 #EXTINF:-1,Fox Sports 2 FHD  SUR 
@@ -119,18 +111,9 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37873
 #EXTINF:-1,Fox Sports 2 HQ Col  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37874 
 #EXTINF:-1,Fox Sports 2 SD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37875 
-#EXTINF:-1,Fox Sports 2 SD  SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37876 
-#EXTINF:-1,Fox Sports 3 FHD http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37877 
-#EXTINF:-1,Fox Sports 3 FHD  SUR http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37878 
-#EXTINF:-1,Fox Sports 3 HD  CL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37879 
-#EXTINF:-1,Fox Sports 3 HQ Col  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37880 
-#EXTINF:-1,Fox Sports FHD  MX http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37881 
-#EXTINF:-1,Fox Sports FHD  SUR http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37882 
-#EXTINF:-1,Fox Sports HD  CL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37883 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37875   
+#EXTINF:-1,Fox Sports 3 HQ Col  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37880  
+#EXTINF:-1,Fox Sports FHD  SUR http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37882  
 #EXTINF:-1,Fox Sports HD  Col  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37884 
 #EXTINF:-1,Fox Sports HD  SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37885 
