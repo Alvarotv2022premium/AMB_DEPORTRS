@@ -101,27 +101,18 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37867
 #EXTINF:-1,ESPN SD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37868     
 #EXTINF:-1,Fox Sports 2 FHD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37870 
-#EXTINF:-1,Fox Sports 2 FHD  SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37871 
-#EXTINF:-1,Fox Sports 2 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37872 
-#EXTINF:-1,Fox Sports 2 HD  CL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37873 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37870    
 #EXTINF:-1,Fox Sports 2 HQ Col  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37874 
-#EXTINF:-1,Fox Sports 2 SD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37875   
-#EXTINF:-1,Fox Sports 3 HQ Col  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37880  
-#EXTINF:-1,Fox Sports FHD  SUR http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37882  
-#EXTINF:-1,Fox Sports HD  Col  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37884 
-#EXTINF:-1,Fox Sports HD  SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37885 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37874    
+#EXTINF:-1,Fox Sports 3 HQ Col  
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37880  
+#EXTINF:-1,Fox Sports FHD  SUR
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37882    
 #EXTINF:-1,Fox Sports Premium HD  ARG 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37886 
 #EXTINF:-1,Fox Sports Premium SD ARG 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37887 
-#EXTINF:-1,Fox Sports SD  MX 
+#EXTINF:-1,Fox Sports SD  MX
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37888 
 #EXTINF:-1,Fox Sports SD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37889 
