@@ -12,7 +12,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938
 #EXTINF:-1,WIN SPORTS SD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37941  
 #EXTINF:-1,WinSports Plus
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37943 
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/58985 
 #EXTINF:-1,WinSports Plus HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37944
 #EXTINF:-1, STAR PLUS EVENTOS
