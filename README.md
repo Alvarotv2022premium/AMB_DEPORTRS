@@ -209,7 +209,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78515
 #EXTINF:-1,ES LA LIGA TV 4K SOLO EVENTOS
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78517
 #EXTINF:-1,ES Bein Sports LaLiga
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78518
+http://mytv.fun:80/Daniel/6yyui7fxeb/8745
 #EXTINF:-1,LALIGA  TV BAR EXCLUSIVO
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78520
 #EXTINF:-1,LALIGA TV BAR EXCLUSIVO 2
