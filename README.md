@@ -227,7 +227,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78532
 #EXTINF:-1,LALIGA  Super Sports Laliga
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78533
 #EXTINF:-1, CONMEBOL 1
-http://a5telecom.distv.net:8080/6235/6235/551
+http://superbits.tv:2095/f0htWYB6/fcGD1J3j/120216
 #EXTINF:-1, CONMEBOL 2
 http://a5telecom.distv.net:8080/6235/6235/552
 
