@@ -1,6 +1,6 @@
 #EXTM3U  
 #EXTINF:-1,Win Sports FHD excl
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040    
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/58985    
 #EXTINF:-1,Win Sports HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938  
 #EXTINF:-1,Win Sports SD
