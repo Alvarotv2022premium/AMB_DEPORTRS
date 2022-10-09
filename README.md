@@ -12,9 +12,7 @@ http://propdsrv.com:80/853820738/269308479/97099
 #EXTINF:-1,Argentina  TNT Sports FHD
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37232 
 #EXTINF:-1,Argentina  TNT Sports HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233 
-#EXTINF:-1,Argentina  TNT Sports SD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37234 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233  
 #EXTINF:-1,Argentina  TyC Sports
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37237 
 #EXTINF:-1,Claro Sports FHD  CO 
@@ -48,7 +46,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37857
 #EXTINF:-1,ESPN 3 HQ  Col  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37858  
 #EXTINF:-1,ESPN Extra HD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37860 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 #EXTINF:-1,ESPN Extra HD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37861    
 #EXTINF:-1,ESPN HD  MX 
