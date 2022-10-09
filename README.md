@@ -6,7 +6,7 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 #EXTINF:-1,WinSports Plus
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/58985 
 #EXTINF:-1,WinSports Plus HD 
-http://higherpro.xyz:8080/live/9h2ium36/c7v8jy83/312.ts
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37934 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
 #EXTINF:-1,Argentina  TNT Sports FHD
