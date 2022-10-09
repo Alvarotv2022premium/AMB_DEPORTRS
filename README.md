@@ -98,8 +98,8 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,Fox Sports SD SUR 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37889 
 
-#EXTINF:-1,Gol Peru FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37898 
+#EXTINF:-1,Gol Tv FHD 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559 
 
 #EXTINF:-1,Gol Peru HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37899  
@@ -123,10 +123,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37917
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37918 
 
 #EXTINF:-1,TyC Sports HQ ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37919   
-
-#EXTINF:-1,Uruguay VTV SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37927 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37919    
 
 #EXTINF:-1,Uruguay VTVplusHD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37928 
@@ -220,34 +217,49 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69787
 
 #EXTINF:-1,DE Dazn 2 Bar HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69788
+
 #EXTINF:-1,LA LIGA
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78511
+
 #EXTINF:-1,LALIGA HD EXTRA
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78512
+
 #EXTINF:-1, LALIGA FHD EXTRA 2
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78515
+
 #EXTINF:-1,ES LA LIGA TV 4K SOLO EVENTOS
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78517
+
 #EXTINF:-1,ES Bein Sports LaLiga
 http://mytv.fun:80/Daniel/6yyui7fxeb/8745
+
 #EXTINF:-1,LALIGA  TV BAR EXCLUSIVO
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78520
+
 #EXTINF:-1,LALIGA TV BAR EXCLUSIVO 2
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78521
+
 #EXTINF:-1,LALIGA  SKY SPORTS LALIGA
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78522
+
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 1
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78529
+
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 2
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78530
+
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 3
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78531
+
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 4
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78532
+
 #EXTINF:-1,LALIGA  Super Sports Laliga
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78533
+
 #EXTINF:-1, CONMEBOL 1
 http://superbits.tv:2095/f0htWYB6/fcGD1J3j/120216
+
 #EXTINF:-1, CONMEBOL 2
 http://a5telecom.distv.net:8080/6235/6235/552
 
