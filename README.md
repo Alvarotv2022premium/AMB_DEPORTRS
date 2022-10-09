@@ -21,7 +21,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37232
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233  
 
 #EXTINF:-1,Argentina  TyC Sports
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37237 
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662 
 
 #EXTINF:-1,Claro Sports FHD  CO 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802  
