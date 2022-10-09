@@ -231,7 +231,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78515
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78517
 
 #EXTINF:-1,ES Bein Sports LaLiga
-http://mytv.fun:80/Daniel/6yyui7fxeb/8745
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1,LALIGA  TV BAR EXCLUSIVO
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78520
