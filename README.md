@@ -1,12 +1,8 @@
 #EXTM3U  
 #EXTINF:-1,Win Sports FHD excl
 http://higherpro.xyz:8080/live/9h2ium36/c7v8jy83/312.ts    
-#EXTINF:-1,Win Sports HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37938  
 #EXTINF:-1,Win Sports SD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040 
-#EXTINF:-1,WIN SPORTS SD
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37941  
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040   
 #EXTINF:-1,WinSports Plus
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/58985 
 #EXTINF:-1,WinSports Plus HD 
@@ -22,34 +18,17 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233
 #EXTINF:-1,Argentina  TyC Sports
  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37237 
 #EXTINF:-1,Claro Sports FHD  CO 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802 
-#EXTINF:-1,Directv Sports 2 HD excl
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37947 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802  
 #EXTINF:-1,Directv Sports plus HD  ARG 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37804  
 #EXTINF:-1,Directv Sports plus HD  COl
-  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807 
-#EXTINF:-1,Directv Sports plus HD  PE 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37808 
-#EXTINF:-1,Directv Sports plus SD CL  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37809 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807   
 #EXTINF:-1,Directv Sports 2 HD  ARG
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810  
-#EXTINF:-1,Directv Sports 2 HD  CL 
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37812 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
 #EXTINF:-1,Directv Sports 2 HD  COL
-  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37813 
-#EXTINF:-1,Directv Sports 2 HD  PE
-  http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37814 
-#EXTINF:-1,Directv Sports HD - PE 
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37816 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37813   
 #EXTINF:-1,Directv Sports HD  ARG
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817 
-#EXTINF:-1,Directv Sports HD  CL 
- http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37818 
-#EXTINF:-1,Directv Sports HD COL  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37819 
-#EXTINF:-1,Directv Sports SD ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37820  
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817     
 #EXTINF:-1,Directv Sports SD COL 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37822 
 #EXTINF:-1,Ecuador Gol TV Solo Eventos 
