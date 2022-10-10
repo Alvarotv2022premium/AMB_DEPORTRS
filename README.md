@@ -75,7 +75,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37858
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
 #EXTINF:-1,ESPN Extra HD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37861    
+http://gameplay.p2sweb.me:80/3091894/4952970/251431    
 
 #EXTINF:-1,ESPN HD  MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696 
