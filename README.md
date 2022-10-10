@@ -134,36 +134,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37928
 #EXTINF:-1,Uruguay VTVplus SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37929 
 
-#EXTINF:-1,Brasil Premiere 1 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37950
-
-#EXTINF:-1,Brasil Premiere Clubes HD 
-http://flixgran.xyz:8080/888888/888888/327391 
-
-#EXTINF:-1,Brasil Premieres Clubes HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37958 
-
-#EXTINF:-1,Portugal Eleven Sports 1 FHD
-http://flixgran.xyz:8080/888888/888888/414776 
-
-#EXTINF:-1,Portugal Eleven Sports 2 HD
-http://flixgran.xyz:8080/888888/888888/415063 
-
-#EXTINF:-1,Portugal  Sport TVplus HD 
-http://flixgran.xyz:8080/888888/888888/414758 
-
-#EXTINF:-1,Portugal  Sport TV 1 HD 
-http://flixgran.xyz:8080/888888/888888/414984 
-
-#EXTINF:-1,Portugal Sport TV 2 HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37963 
-
-#EXTINF:-1,Portugal Sport TV 3 HD 
-http://flixgran.xyz:8080/888888/888888/414986 
-
-#EXTINF:-1,Portugal Sport TV 4 HD 
-http://flixgran.xyz:8080/888888/888888/414767 
-
 #EXTINF:-1,EUROSPORT 1  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37969 
 
@@ -181,9 +151,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38144
 
 #EXTINF:-1,VIP BRCOMBATE HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/39984 
-
-#EXTINF:-1,WWE Network FHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40513
 
 #EXTINF:-1,DEP  RED BULL TV 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40589
