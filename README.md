@@ -142,12 +142,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37970
 
 #EXTINF:-1,Afizzionados HD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37971 
-
-#EXTINF:-1,DEPORTES EUR  UFC HD  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38143 
-
-#EXTINF:-1,DEPORTES EUR UFC Figh Pass HD  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/38144 
+ 
 
 #EXTINF:-1,VIP BRCOMBATE HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/39984 
@@ -162,10 +157,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40594
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40595
 
 #EXTINF:-1,El Canal Del Futbol ECU SOLO EVENTOS 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40662 
-
-#EXTINF:-1,UFC EVENTOS 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40828 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40662  
 
 #EXTINF:-1,DAZN F1 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69765
