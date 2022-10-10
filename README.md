@@ -1,15 +1,18 @@
-#EXTM3U  
-#EXTINF:-1,Win Sports FHD excl
-http://higherpro.xyz:8080/live/9h2ium36/c7v8jy83/312.ts    
-
-#EXTINF:-1,Win Sports SD
-http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040   
+#EXTM3U 
+   
 
 #EXTINF:-1,WinSports Plus
 http://gameplay.p2sweb.me:80/3091894/4952970/251392 
 
 #EXTINF:-1,WinSports Plus HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37934 
+
+#EXTINF:-1,Win Sports FHD excl
+http://higherpro.xyz:8080/live/9h2ium36/c7v8jy83/312.ts    
+
+#EXTINF:-1,Win Sports SD
+http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
+
 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
@@ -27,7 +30,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802  
 
 #EXTINF:-1,Directv Sports plus HD  ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37804  
+http://gameplay.p2sweb.me:80/3091894/4952970/251375  
 
 #EXTINF:-1,Directv Sports plus HD  COl
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807   
@@ -36,13 +39,13 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37807
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
 
 #EXTINF:-1,Directv Sports 2 HD  COL
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37813   
+http://gameplay.p2sweb.me:80/3091894/4952970/251376   
 
 #EXTINF:-1,Directv Sports HD  ARG
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817     
 
 #EXTINF:-1,Directv Sports SD COL 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37822   
+http://gameplay.p2sweb.me:80/3091894/4952970/251374   
 
 #EXTINF:-1,Ecuador  Gol TV HD  
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37825 
@@ -57,7 +60,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37851
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694 
 
 #EXTINF:-1,ESPN 2 SD  SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37853 
+http://gameplay.p2sweb.me:80/3091894/4952970/251378 
 
 #EXTINF:-1,ESPN 3 FHD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695  
@@ -78,16 +81,16 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37861
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696 
 
 #EXTINF:-1,ESPN HD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37866       
+http://gameplay.p2sweb.me:80/3091894/4952970/251377       
 
 #EXTINF:-1,Fox Sports 2 FHD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707    
 
 #EXTINF:-1,Fox Sports 2 HQ Col  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37874    
+http://gameplay.p2sweb.me:80/3091894/4952970/251381    
 
 #EXTINF:-1,Fox Sports 3 HQ Col  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37880      
+http://gameplay.p2sweb.me:80/3091894/4952970/251382      
 
 #EXTINF:-1,Fox Sports Premium HD  ARG 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37886  
@@ -96,7 +99,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37886
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706 
 
 #EXTINF:-1,Fox Sports SD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37889 
+http://gameplay.p2sweb.me:80/3091894/4952970/251380 
 
 #EXTINF:-1,Gol Tv FHD 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559 
