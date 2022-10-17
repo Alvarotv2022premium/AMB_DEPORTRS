@@ -1,6 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1,Win Sports Plus 1  
+#EXTINF:-1,Win Sports Plus opc1 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
  
 #EXTINF:-1,Win Sports plus
