@@ -105,16 +105,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37899
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37916 
 
 #EXTINF:-1,TUDN SD  MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37917 
-
-#EXTINF:-1,TyC Sports HD ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37918 
-
-#EXTINF:-1,TyC Sports HQ ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37919    
-
-#EXTINF:-1,Uruguay VTVplusHD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37928 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37917       
 
 #EXTINF:-1,Uruguay VTVplus SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37929 
