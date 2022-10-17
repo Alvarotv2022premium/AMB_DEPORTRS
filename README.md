@@ -1,8 +1,8 @@
 #EXTM3U 
    
 
-#EXTINF:-1,WinSports Plus
-http://gameplay.p2swhttp://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040    
+#EXTINF:-1,WinSports Plus   
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
 
 #EXTINF:-1,Win Sports SD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
