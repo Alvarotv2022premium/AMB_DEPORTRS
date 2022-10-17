@@ -1,5 +1,7 @@
 #EXTM3U 
-   
+  
+#EXTINF:-1,Win Sports plus
+http://soberon.us:25461//live/m0nk3yn3w/n3wm0nk3y/984.ts
 
 #EXTINF:-1,WinSports Plus   
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
