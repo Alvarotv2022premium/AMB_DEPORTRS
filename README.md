@@ -2,13 +2,7 @@
    
 
 #EXTINF:-1,WinSports Plus
-http://gameplay.p2sweb.me:80/3091894/4952970/251392 
-
-#EXTINF:-1,WinSports Plus HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37934 
-
-#EXTINF:-1,Win Sports FHD excl
-http://higherpro.xyz:8080/live/9h2ium36/c7v8jy83/312.ts    
+http://gameplay.p2swhttp://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040    
 
 #EXTINF:-1,Win Sports SD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
