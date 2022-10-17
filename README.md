@@ -1,10 +1,11 @@
 #EXTM3U 
-  
+
+#EXTINF:-1,Win Sports Plus 1  
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
+ 
 #EXTINF:-1,Win Sports plus
 http://soberon.us:25461//live/m0nk3yn3w/n3wm0nk3y/984.ts
 
-#EXTINF:-1,WinSports Plus   
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
 
 #EXTINF:-1,Win Sports SD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
@@ -12,9 +13,7 @@ http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
-
-#EXTINF:-1,Argentina  TNT Sports FHD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37232 
+ 
 
 #EXTINF:-1,Argentina  TNT Sports HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233  
@@ -42,10 +41,7 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817
 
 #EXTINF:-1,Directv Sports SD COL 
 http://gameplay.p2sweb.me:80/3091894/4952970/251374   
-
-#EXTINF:-1,Ecuador  Gol TV HD  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37825 
-
+ 
 #EXTINF:-1,Ecuador  Gol TV SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826         
 
