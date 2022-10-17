@@ -99,16 +99,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251380
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559 
 
 #EXTINF:-1,Gol Peru HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37899  
-
-#EXTINF:-1,Golf Channel FHD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37902 
-
-#EXTINF:-1,MOVISTAR DEPORTES 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37905 
-
-#EXTINF:-1,Tennis Channel HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37906 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37899   
 
 #EXTINF:-1,TUDN FHD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37916 
@@ -136,13 +127,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37970
 
 #EXTINF:-1,Afizzionados HD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37971 
- 
-
-#EXTINF:-1,VIP BRCOMBATE HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/39984 
-
-#EXTINF:-1,DEP  RED BULL TV 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40589
 
 #EXTINF:-1,DEP CDO CHILE SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40594 
@@ -209,9 +193,6 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78531
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 4
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78532
-
-#EXTINF:-1,LALIGA  Super Sports Laliga
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78533
 
 #EXTINF:-1, CONMEBOL 1
 http://superbits.tv:2095/f0htWYB6/fcGD1J3j/120216
