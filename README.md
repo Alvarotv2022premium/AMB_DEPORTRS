@@ -4,7 +4,7 @@
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
  
 #EXTINF:-1,Win Sports plus
-http://soberon.us:25461//live/m0nk3yn3w/n3wm0nk3y/984.ts
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201909
 
 
 #EXTINF:-1,Win Sports SD
