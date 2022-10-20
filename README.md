@@ -8,7 +8,6 @@ http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201911
 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
- 
 
 #EXTINF:-1,Argentina  TNT Sports HD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233  
