@@ -10,13 +10,13 @@ http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201911
 http://propdsrv.com:80/853820738/269308479/97099    
 
 #EXTINF:-1,Argentina  TNT Sports HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37233  
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/205248  
 
 #EXTINF:-1,Argentina  TyC Sports
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662 
 
 #EXTINF:-1,Claro Sports FHD  CO 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37802  
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
 
 #EXTINF:-1,Directv Sports plus HD  ARG 
 http://gameplay.p2sweb.me:80/3091894/4952970/251375  
