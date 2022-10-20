@@ -40,7 +40,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251374
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826         
 
 #EXTINF:-1,ESPN 2 HD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37851 
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201921 
 
 #EXTINF:-1,ESPN 2 SD  MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694 
@@ -52,10 +52,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251378
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695  
 
 #EXTINF:-1,ESPN 3 HD SUR 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37857 
-
-#EXTINF:-1,ESPN 3 HQ  Col  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37858  
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201922   
 
 #EXTINF:-1,ESPN Extra HD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
@@ -67,7 +64,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251431
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696 
 
 #EXTINF:-1,ESPN HD SUR 
-http://gameplay.p2sweb.me:80/3091894/4952970/251377       
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201920       
 
 #EXTINF:-1,Fox Sports 2 FHD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707    
