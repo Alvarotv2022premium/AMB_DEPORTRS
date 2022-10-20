@@ -28,7 +28,7 @@ http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
 
 #EXTINF:-1,Directv Sports 2 HD  COL
-http://gameplay.p2sweb.me:80/3091894/4952970/251376   
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201526   
 
 #EXTINF:-1,Directv Sports HD  ARG
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817     
