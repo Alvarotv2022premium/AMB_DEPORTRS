@@ -1,15 +1,10 @@
 #EXTM3U 
 
 #EXTINF:-1,Win Sports Plus opc1 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37932
- 
-#EXTINF:-1,Win Sports plus
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201909
-
 
 #EXTINF:-1,Win Sports SD
 http://superbits.tv:2095/sSTGthk1x3/s6K6WC0G/52040
-
 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
