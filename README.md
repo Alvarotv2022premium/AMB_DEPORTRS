@@ -115,25 +115,22 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/100157
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48703
 
 #EXTINF:-1,DAZN 2 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69774
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/50829
 
 #EXTINF:-1,DE Dazn 1 Bar HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69787
-
-#EXTINF:-1,DE Dazn 2 Bar HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69788
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/50828
 
 #EXTINF:-1,LA LIGA
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78511
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/128366
 
 #EXTINF:-1,LALIGA HD EXTRA
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78512
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361400
 
 #EXTINF:-1, LALIGA FHD EXTRA 2
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78515
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361401
 
 #EXTINF:-1,ES LA LIGA TV 4K SOLO EVENTOS
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78517
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361404
 
 #EXTINF:-1,ES Bein Sports LaLiga
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
