@@ -33,6 +33,9 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72219
 #EXTINF:-1,  Directv Sports Event
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/191677
 
+#EXTINF:-1,  Directv Sports Event 2
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/117872
+
 #EXTINF:-1,Ecuador  Gol TV SD 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/35777          
 
