@@ -19,7 +19,7 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/133823
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
 
 #EXTINF:-1,Directv Sports plus HD  ARG 
-http://gameplay.p2sweb.me:80/3091894/4952970/251375  
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72219  
 
 #EXTINF:-1,Directv Sports plus HD  COl
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369
@@ -31,10 +31,10 @@ http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201526   
 
 #EXTINF:-1,Directv Sports HD  ARG
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37817     
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146743     
 
 #EXTINF:-1,Directv Sports SD COL 
-http://gameplay.p2sweb.me:80/3091894/4952970/251374   
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72239   
  
 #EXTINF:-1,Ecuador  Gol TV SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826         
