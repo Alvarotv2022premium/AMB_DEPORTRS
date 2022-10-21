@@ -1,12 +1,12 @@
 #EXTM3U 
 
-#EXTINF:-1,Win Sports Plus 
+#EXTINF:-1, CO Win Sports Plus 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/58985
 
-#EXTINF:-1,Win Sports 
+#EXTINF:-1, CO Win Sports 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/52040
 
-#EXTINF:-1, STAR PLUS EVENTOS
+#EXTINF:-1, STAR PLUS EVENT FUT
 http://propdsrv.com:80/853820738/269308479/97099    
 
 #EXTINF:-1,Argentina  TNT Sports HD 
@@ -18,22 +18,22 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/133823
 #EXTINF:-1,Claro Sports FHD  CO 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
 
-#EXTINF:-1,Directv Sports plus HD  ARG 
+#EXTINF:-1,Directv Sports plus 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72219  
 
-#EXTINF:-1,Directv Sports plus HD  COl
+#EXTINF:-1,Directv Sports plus 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369
 
-#EXTINF:-1,Directv Sports 2 HD  ARG
+#EXTINF:-1,Directv Sports 2 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
 
-#EXTINF:-1,Directv Sports 2 HD  COL
+#EXTINF:-1,Directv Sports 2 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201526   
 
-#EXTINF:-1,Directv Sports HD  ARG
+#EXTINF:-1,Directv Sports 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146743     
 
-#EXTINF:-1,Directv Sports SD COL 
+#EXTINF:-1,Directv Sports 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72239   
  
 #EXTINF:-1,Ecuador  Gol TV SD 
