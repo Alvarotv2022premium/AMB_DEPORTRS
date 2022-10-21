@@ -16,7 +16,7 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28585
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/133823 
 
 #EXTINF:-1,Claro Sports FHD  CO 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39128  
 
 #EXTINF:-1, Directv Sports 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146743     
@@ -49,19 +49,16 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39147
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695  
 
 #EXTINF:-1,ESPN 3 HD SUR 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201922   
-
-#EXTINF:-1,ESPN Extra HD MX 
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/45742   
 
 #EXTINF:-1,ESPN Extra HD SUR 
-http://gameplay.p2sweb.me:80/3091894/4952970/251431    
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/99564    
 
 #EXTINF:-1,ESPN HD  MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696 
 
 #EXTINF:-1,ESPN HD SUR 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201920       
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39147       
 
 #EXTINF:-1,Fox Sports 2 FHD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707    
