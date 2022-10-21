@@ -136,13 +136,10 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361404
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
 #EXTINF:-1,LALIGA  TV BAR EXCLUSIVO
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78520
-
-#EXTINF:-1,LALIGA TV BAR EXCLUSIVO 2
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78521
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361396
 
 #EXTINF:-1,LALIGA  SKY SPORTS LALIGA
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78522
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/11659
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 1
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78529
