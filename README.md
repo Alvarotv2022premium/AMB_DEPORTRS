@@ -64,19 +64,19 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39147
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/707    
 
 #EXTINF:-1,Fox Sports 2 HQ Col  
-http://gameplay.p2sweb.me:80/3091894/4952970/251381    
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/99548  
 
 #EXTINF:-1,Fox Sports 3 HQ Col  
-http://gameplay.p2sweb.me:80/3091894/4952970/251382      
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/99549    
 
 #EXTINF:-1,Fox Sports Premium HD  ARG 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37886  
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/99551  
 
 #EXTINF:-1,Fox Sports SD  MX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/706 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/45770 
 
 #EXTINF:-1,Fox Sports SD SUR 
-http://gameplay.p2sweb.me:80/3091894/4952970/251380 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28597
 
 #EXTINF:-1,Gol Tv FHD 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559 
