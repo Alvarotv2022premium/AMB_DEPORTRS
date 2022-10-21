@@ -142,16 +142,16 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361396
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/11659
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 1
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78529
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361400
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 2
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78530
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361404
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 3
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78531
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361406
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 4
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/78532
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48824
 
 #EXTINF:-1, CONMEBOL 1
 http://superbits.tv:2095/f0htWYB6/fcGD1J3j/120216
