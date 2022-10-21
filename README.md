@@ -100,13 +100,13 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48721
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37971 
 
 #EXTINF:-1,DEP CDO CHILE SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40594 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28035
 
 #EXTINF:-1,DEP CDO PREMIUM HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40595
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12355
 
 #EXTINF:-1,El Canal Del Futbol ECU SOLO EVENTOS 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/40662  
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72226
 
 #EXTINF:-1,DAZN F1 SD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69765
