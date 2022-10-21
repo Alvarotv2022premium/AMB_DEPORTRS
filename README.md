@@ -85,19 +85,16 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/69149   
 
 #EXTINF:-1,TUDN FHD MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37916 
-
-#EXTINF:-1,TUDN SD  MX 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37917       
-
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/45931 
+   
 #EXTINF:-1,Uruguay VTVplus SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37929 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146744
 
 #EXTINF:-1,EUROSPORT 1  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37969 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48720
 
 #EXTINF:-1,EUROSPORT 2  
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37970 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48721
 
 #EXTINF:-1,Afizzionados HD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37971 
