@@ -109,16 +109,10 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/12355
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72226
 
 #EXTINF:-1,DAZN F1 SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69765
-
-#EXTINF:-1,DAZN 1 SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69769
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/100157
 
 #EXTINF:-1,DAZN 1 HD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69770
-
-#EXTINF:-1,DAZN 2 SD
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69773
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48703
 
 #EXTINF:-1,DAZN 2 HD
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/69774
