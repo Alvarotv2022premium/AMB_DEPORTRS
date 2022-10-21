@@ -1,19 +1,19 @@
 #EXTM3U 
 
 #EXTINF:-1,Win Sports Plus 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201909
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/58985
 
 #EXTINF:-1,Win Sports 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201911
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/52040
 
 #EXTINF:-1, STAR PLUS EVENTOS
 http://propdsrv.com:80/853820738/269308479/97099    
 
 #EXTINF:-1,Argentina  TNT Sports HD 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/205248  
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28585  
 
 #EXTINF:-1,Argentina  TyC Sports
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/662 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/133823 
 
 #EXTINF:-1,Claro Sports FHD  CO 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
