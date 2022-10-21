@@ -34,16 +34,13 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72219
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/191677
 
 #EXTINF:-1,Ecuador  Gol TV SD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826         
-
-#EXTINF:-1,ESPN 2 HD SUR 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201921 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/35777          
 
 #EXTINF:-1,ESPN 2 SD  MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694 
 
 #EXTINF:-1,ESPN 2 SD  SUR 
-http://gameplay.p2sweb.me:80/3091894/4952970/251378 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/39147 
 
 #EXTINF:-1,ESPN 3 FHD MX 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695  
@@ -85,7 +82,7 @@ http://gameplay.p2sweb.me:80/3091894/4952970/251380
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/559 
 
 #EXTINF:-1,Gol Peru HD 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37899   
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/69149   
 
 #EXTINF:-1,TUDN FHD MX 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37916 
