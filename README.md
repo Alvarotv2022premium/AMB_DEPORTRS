@@ -18,24 +18,24 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/133823
 #EXTINF:-1,Claro Sports FHD  CO 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369  
 
+#EXTINF:-1,Directv Sports 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146743     
+
+#EXTINF:-1,Directv Sports 
+http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72239   
+
+#EXTINF:-1,Directv Sports 2 
+http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
+
+#EXTINF:-1,Directv Sports 2 
+http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201526
+
 #EXTINF:-1,Directv Sports plus 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72219  
 
 #EXTINF:-1,Directv Sports plus 
 http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/227369
 
-#EXTINF:-1,Directv Sports 2 
-http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37810   
-
-#EXTINF:-1,Directv Sports 2 
-http://teamnextlevel.xyz:25461/MigdalyFB/YfD9jQrt65/201526   
-
-#EXTINF:-1,Directv Sports 
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/146743     
-
-#EXTINF:-1,Directv Sports 
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72239   
- 
 #EXTINF:-1,Ecuador  Gol TV SD 
 http://higherpro.xyz:8080/jesus82399/GBbdheUdfZ/37826         
 
