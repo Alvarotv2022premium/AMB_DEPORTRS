@@ -7,7 +7,7 @@ http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044663
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/52040
 
 #EXTINF:-1, STAR PLUS EVENT FUT
-http://propdsrv.com:80/853820738/269308479/97099    
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014589   
 
 #EXTINF:-1,Argentina  TNT Sports HD 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/28585  
