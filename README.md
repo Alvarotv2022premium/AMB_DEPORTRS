@@ -112,7 +112,7 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/72226
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/100157
 
 #EXTINF:-1,DAZN 1 HD
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/48703
+http://venomtt.com:8000/kdcxxD1U/543545/149068
 
 #EXTINF:-1,DAZN 2 HD
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/50829
@@ -121,7 +121,7 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/50829
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/50828
 
 #EXTINF:-1,LA LIGA
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/128366
+http://venomtt.com:8000/kdcxxD1U/543545/149067
 
 #EXTINF:-1,LALIGA HD EXTRA
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361400
@@ -142,10 +142,10 @@ http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361396
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/11659
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 1
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361400
+http://venomtt.com:8000/kdcxxD1U/543545/149066
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 2
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361404
+http://venomtt.com:8000/kdcxxD1U/543545/149070
 
 #EXTINF:-1,LALIGA  MOVISTAR LALIGA 3
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/361406
