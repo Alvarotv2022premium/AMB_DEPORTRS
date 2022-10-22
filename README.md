@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1, CO Win Sports Plus 
-http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/58985
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044663
 
 #EXTINF:-1, CO Win Sports 
 http://superbits.tv:2095/f3mjsuhB/or3k9Sgb/52040
