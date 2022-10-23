@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1, SOPORTE 24 7
+http://superbits.tv:2095/get.php?username=f3mjsuhB&password=or3k9Sgb&type=m3u_plus
+
 #EXTINF:-1, CO Win Sports Plus 
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044663
 
