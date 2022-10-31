@@ -4,10 +4,10 @@
 http://superbits.tv:2095/get.php?username=f3mjsuhB&password=or3k9Sgb&type=m3u_plus
 
 #EXTINF:-1, CO Win Sports Plus 
-http://894307951644314328.niceapy.xyz:80/play/fc08257/8925480810/314328.ts
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044663
 
 #EXTINF:-1, CO Win Sports 
-http://894307951644314327.niceapy.xyz:80/play/fc08257/8925480810/314327.ts
+http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1044662
 
 #EXTINF:-1, STAR PLUS EVENT FUT
 http://rctv.tech:80/EbhTbZp8Zudg/kQyPeRtp2jRM/1014589   
